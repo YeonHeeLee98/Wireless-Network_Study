@@ -4,12 +4,12 @@
 
 ## 목차
 
-- Study 참고 자료
+- IEEE 802.15.4
+- IEEE 802.11 
+- Study files
   - OSI 7계층 정리
   - TCP/IP 4계층 정리
   - CSMA, CSMA/CD, CSMA/CA 정리
-- IEEE 802.15.4
-- IEEE 802.11 
 
 </br>
 
